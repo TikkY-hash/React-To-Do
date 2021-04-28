@@ -1,0 +1,23 @@
+.item {
+    color : black;
+    font-weight: none;
+    text-decoration : none;
+    font-size : 18px;
+    padding-top : 10px;
+    cursor : pointer;
+}
+
+.done {
+    text-decoration : line-through;
+}
+
+.important {
+    color : steelblue;
+    font-weight: bold;
+}
+
+.list__button {
+    margin-right : 10px;
+    width : 38px;
+    height : 38px;
+}
